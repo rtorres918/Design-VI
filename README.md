@@ -19,6 +19,8 @@
 - "if you’re going to try, go all the way. Otherwise, don’t even start." Charles Bukowski
 ##### Photo of the Day
 [Photo of The day](https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/taxi-halloween-costume-man)
-
+###### Word of the Day
+Bespoke
+: dealing in or producing custom-made articles
    
 
