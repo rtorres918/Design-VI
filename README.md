@@ -20,6 +20,6 @@
 ##### Photo of the Day
 [Photo of The day](https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/taxi-halloween-costume-man)
 
-![Napoleon](https://github.com/rtorres918/Design-VI/assets/117099680/f0beea48-43e7-4ea7-9efc-f2be2e801c3c)
+
 
 
