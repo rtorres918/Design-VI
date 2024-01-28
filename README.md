@@ -20,6 +20,8 @@
 ##### Photo of the Day
 [Photo of The day](https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/taxi-halloween-costume-man)
 
+`result = 3 * (4 + 7) / 2`
+
 ![IMG_1349](https://github.com/rtorres918/Design-VI/assets/117099680/67485696-4f1d-49e1-aabc-7e1cefb37dc3)
 
 
