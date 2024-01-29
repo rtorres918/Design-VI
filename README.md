@@ -1,4 +1,4 @@
-# The life of an Electrical Engineering Student Raymond Torres
+# The life of an Electrical Engineering Student Raymond Torres 😊
 ## Hobbies outside the Classroom
 - Avid Tennis Player
 - Enjoys to play and watch soccer
