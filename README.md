@@ -11,10 +11,10 @@
 - Networking
 - Professional Development
 #### Goals Out of Design-VI
-- Get Closer to professor Lu of Course!
-- Work successfully with other students
-- Develop Creativity and Imagination for Projects
-- Develop the skills to design a system or process with necessary economic, manufactural and enviormentally friendly constraints
+1. Get Closer to professor Lu of Course!
+2. Work successfully with other students
+3. Develop Creativity and Imagination for Projects
+4. Develop the skills to design a system or process with necessary economic, manufactural and enviormentally friendly constraints
 #### My Favorite Quote
 - "if you’re going to try, go all the way. Otherwise, don’t even start." Charles Bukowski
 ##### Photo of The Day
