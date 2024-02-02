@@ -1,4 +1,5 @@
-# The life --> Life of an Electrical Engineering Student Raymond Torres 
+# The Life of an Electrical Engineering Student Raymond Torres 
+--- 
 ## Hobbies outside the Classroom
 - Avid Tennis Player
 - Enjoys to play and watch soccer
@@ -16,7 +17,7 @@
 3. Develop Creativity and Imagination for Projects
 4. **Develop the skills to design a system or process with necessary economic, manufactural and enviormentally friendly constraints**
 #### *My Favorite Quote*
-> "if you’re going to try, go all the way. Otherwise, don’t even start." Charles Bukowski
+> "If you’re going to try, go all the way. Otherwise, don’t even start." Charles Bukowski
 ##### *Photo of The Day* 😊
 [Photo of The day](https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/taxi-halloween-costume-man)
 
