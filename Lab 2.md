@@ -1,0 +1,11 @@
+# Lab 2
+![Screenshot (148)](https://github.com/rtorres918/Design-VI/assets/117099680/c238112d-6790-4b22-9f2a-02dce3f0cd5b)
+![Screenshot (149)](https://github.com/rtorres918/Design-VI/assets/117099680/c1e81bf6-881a-49e4-b0d1-234043d9db81)
+![Screenshot (150)](https://github.com/rtorres918/Design-VI/assets/117099680/d718be61-026a-44b0-a1ee-02be741a0e7b)
+![Screenshot (151)](https://github.com/rtorres918/Design-VI/assets/117099680/13fc6433-2df7-4d68-a66f-a24adf26d9b4)
+![Screenshot (141)](https://github.com/rtorres918/Design-VI/assets/117099680/bc0ab7c7-170b-416e-b95a-3fd3f43660cd)
+![Screenshot (143)](https://github.com/rtorres918/Design-VI/assets/117099680/7d0b1ef3-4b31-4dbc-9a5c-bf09e4a3803c)
+![Screenshot (144)](https://github.com/rtorres918/Design-VI/assets/117099680/1003b135-f70c-404f-a5a4-e5bc38456ee0)
+![Screenshot (145)](https://github.com/rtorres918/Design-VI/assets/117099680/b779e886-95cd-4096-b0c5-d85bd9232310)
+![Screenshot (146)](https://github.com/rtorres918/Design-VI/assets/117099680/279b3b80-4d00-4110-91e2-bb68715e456f)
+![Screenshot (147)](https://github.com/rtorres918/Design-VI/assets/117099680/4d3dff5e-fdc1-414d-baf3-1668066a65e0)
